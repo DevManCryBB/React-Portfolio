@@ -1,5 +1,5 @@
 import React from 'react';
-import Profile from '../../assets/images/ProfilePic.JPG';
+import profile from '../../assets/images/ProfilePic.JPG';
 import "../pages/css/about.css";
 
 export default function About() {
@@ -8,7 +8,7 @@ export default function About() {
             <div className='row'>
 
                 <div className='col-3 p-3 mb-2 text-center'>
-                    <img classname='profile ' alt="profile" src={Profile} style={{ width: '100%' }} />
+                    <img classname='profile ' alt="profile" src={profile} style={{ width: '100%' }} />
                     <h1 style={{ fontSize: '80px', }}>About Me</h1>
                 </div>
 

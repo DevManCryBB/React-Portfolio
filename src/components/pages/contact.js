@@ -29,7 +29,6 @@ export default function Contact() {
                     <button type="button" class="btn btn-success btn-lg">Success</button>
                 </div>
             </div>
-            <img alt="progress" src={mail} className="position-absolute top-50 start-50 translate-middle" />
         </main>
     );
 }
