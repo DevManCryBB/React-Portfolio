@@ -15,9 +15,9 @@ function Header() {
       <h1 href='/'>Veronica Griggs</h1>
       <div className="nav">
       <Link to="/about" style={linkStyle}>About Me</Link>
-      <Link to='/projects' style={linkStyle} >Portfolio</Link>
+      <Link to='/portfolio' style={linkStyle} >Portfolio</Link>
       <Link to='/contact' style={linkStyle}>Contact</Link>
-      <Link to='/resume' style={linkStyle}>Resume</Link>
+      {/* <Link to='/resume' style={linkStyle}>Resume</Link> */}
       </div>
     </header>
   );
