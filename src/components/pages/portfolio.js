@@ -1,4 +1,8 @@
 import React from 'react';
+import Project from '../Project'
+import Frog from '../../assets/images/Joke.png'
+import Gym from '../../assets/images/Exercise Categories.png'
+import Port from '../../assets/images/Portfolio1.png'
 
 
 export default function Portfolio() {
@@ -7,38 +11,35 @@ export default function Portfolio() {
             id: 1,
             name: "Cursed Frog Generator Group Project 1",
             description: "A funny frog gif generator that usees API's to choose a randmom joke, wisdom, or uplifting quote",
-            deployed: "",
-            github: "",
-            display:
-
+            deployed: "https://mercurybased.github.io/Cursed-Frog-Generator/",
+            github: "https://github.com/mercurybased/Cursed-Frog-Generator",
+            display: Frog
         },
         {
             id: 2,
             name: "Cirque Du Sore Legs Group Project 2",
-            description: "This app utilizes Socket.Io and Cloudinary creating a SQL based social networking app with an open chat and matching users based on interests",
-            deployed: "",
-            github: "",
-            display: 
-
+            description: "We wanted to create a fun new fitness app with a twist: funny exercises you can do anywhere. There are many fitness apps that cater to the serious gym rat, but we wanted to create an app for the more lax, on-the-go user who may not have access to a gym.",
+            deployed: "https://cirque-du-sore-legs.herokuapp.com/",
+            github: "https://github.com/DevManCryBB/circue-de-sore-legs",
+            display: Gym
         },
         {
             id: 3,
             name: "First Portfolio",
             description: "My first portfolio project design",
-            deployed: "https://17anguyen.github.io/Portfolio-Project/",
-            github: "https://github.com/17anguyen/Portfolio-Project/blob/main/README.md",
-            display: 
-
+            deployed: "https://devmancrybb.github.io/second-challenge/",
+            github: "https://github.com/DevManCryBB/second-challenge",
+            display: Port
         },
-        {
-            id: 4,
-            name: "",
-            description: "",
-            github: "",
-            deployed: "",
-            display: 
+        // {
+        //     id: 4,
+        //     name: "",
+        //     description: "",
+        //     github: "",
+        //     deployed: "",
+        //     display: 
 
-        },
+        // },
 
     ]
     return (
