@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 div.card {
-    background: rgba(236, 188, 166, 0.701);
+    background: rgba(158, 244, 227, 0.701);
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(6.2px);

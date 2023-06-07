@@ -31,15 +31,6 @@ export default function Portfolio() {
             github: "https://github.com/DevManCryBB/second-challenge",
             display: Port
         },
-        // {
-        //     id: 4,
-        //     name: "",
-        //     description: "",
-        //     github: "",
-        //     deployed: "",
-        //     display: 
-
-        // },
 
     ]
     return (
