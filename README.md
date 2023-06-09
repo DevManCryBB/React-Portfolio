@@ -7,7 +7,11 @@ I created this page as an accessible portfolio page for future carreer prospects
 
 ## Installation
 
-Simply follow the URL and view the pages
+Simply follow the URL below and view the pages
+
+## Link
+
+https://veronicagriggs.netlify.app/
 
 ## Usage
 
