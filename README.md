@@ -11,6 +11,8 @@ Simply follow the URL and view the pages
 
 ## Usage
 
+Once the landing page has loaded simply click on the elements in the nav bar and view the pages.
+
 ![Portfolio Page](./src/assets/images/ReactPort.png)
 
 ## Credits
