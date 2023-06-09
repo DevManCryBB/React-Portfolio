@@ -8,12 +8,12 @@ export default function About() {
             <div className='row'>
 
                 <div className='col-3 p-3 mb-2 text-center'>
-                    <img classname='profile ' alt="profile" src={profile} style={{ width: '100%' }} />
+                    <img className='profile' alt="profile" src={profile} style={{ width: '100%' }} />
                     <h1 style={{ fontSize: '80px', }}>About Me</h1>
                 </div>
 
-                <div className='text-center col-sm-9 p-33 body' style={{ width: '70%' }}>
-                    <p>Junior Software Developer from the PNW </p>
+                <div className='m-25 col-sm-9 p-33 body' style={{ width: '70%' }}>
+                    <p style={{ fontSize: '20px', }}>Junior Software Developer, born and raised in the PNW, with a passion for coding!</p>
 
                 </div>
 

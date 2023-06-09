@@ -6,3 +6,6 @@ h1 {
     opacity: 75%;
     text-align:center;
 }
+.card-body {
+    background-color: rgba(158, 244, 227, 0.701);
+}

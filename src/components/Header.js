@@ -17,7 +17,7 @@ function Header() {
       <Link to="/about" style={linkStyle}>About Me</Link>
       <Link to='/portfolio' style={linkStyle} >Portfolio</Link>
       <Link to='/contact' style={linkStyle}>Contact</Link>
-      {/* <Link to='/resume' style={linkStyle}>Resume</Link> */}
+      <Link to='/resume' style={linkStyle}>Resume</Link>
       </div>
     </header>
   );
