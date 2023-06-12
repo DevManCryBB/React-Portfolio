@@ -3,6 +3,7 @@ import Project from '../Project'
 import Frog from '../../assets/images/Joke.png'
 import Gym from '../../assets/images/Exercise Categories.png'
 import Port from '../../assets/images/Portfolio1.png'
+import Doodle from '../../assets/images/ScreenLoad.png'
 
 
 export default function Portfolio() {
@@ -30,6 +31,14 @@ export default function Portfolio() {
             deployed: "https://devmancrybb.github.io/second-challenge/",
             github: "https://github.com/DevManCryBB/second-challenge",
             display: Port
+        },
+        {
+            id: 4,
+            name: "DoodleDash",
+            description: "A fun drawing/word guessing game",
+            deployed: "https://doodledash.netlify.app/",
+            github: "https://github.com/17anguyen/notPictionary",
+            display: Doodle
         },
 
     ]
